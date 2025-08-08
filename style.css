@@ -1,0 +1,24 @@
+body{
+    font-family: cursive;
+}
+.hero{
+    background: linear-gradient(135deg, #4a90e2, #6a11cb);
+    background-attachment: fixed;
+    color: #fff;
+}
+.navbar{
+    box-shadow: 0px 0px 10px;
+}
+p .subtitle{
+    text-align: justify;
+}
+.image{
+    border-radius: 10px;
+}
+.c{
+    height: 250px!important;
+    width: 250px!important;
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
